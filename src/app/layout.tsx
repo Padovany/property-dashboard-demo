@@ -19,7 +19,7 @@ export default function RootLayout({
         {/* Sidebar */}
         <aside className="w-64 bg-neutral-900 border-r border-neutral-800 flex flex-col">
           <div className="p-6 text-xl font-semibold tracking-wide">
-            ⚡ Utility Dashboard
+            Utility Dashboard
           </div>
 
           <nav className="flex-1 p-3 space-y-2">
